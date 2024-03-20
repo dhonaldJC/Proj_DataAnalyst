@@ -17,7 +17,7 @@ AND continent IS NOT NULL
 ORDER BY 1,2
 
 
-
+-- try to commit again
 -- Looking at Total Cases vs Population
 -- Shows what percentage of population got Covid
 
