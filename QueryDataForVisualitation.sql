@@ -5,7 +5,6 @@ Queries used for Tableau Project
 */
 
 
-
 -- 1. 
 
 SELECT SUM(new_cases) AS Total_cases, 
